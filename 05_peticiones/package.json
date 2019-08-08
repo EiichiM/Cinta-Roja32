@@ -1,0 +1,19 @@
+{
+  "name": "05_peticiones",
+  "version": "1.0.0",
+  "description": "Es la primer peticion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "peticiones",
+    "node",
+    "request"
+  ],
+  "author": "Eiichi Matsuo",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
